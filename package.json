@@ -1,6 +1,6 @@
 {
   "name": "nodetype-enum",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An enum of HTML DOM node types",
   "main": "index.js",
   "directories": {

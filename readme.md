@@ -10,16 +10,18 @@
   8: 'comment',
   9: 'document',
   10: 'documentType',
-  11: 'fragment',
+  11: 'documentFragment',
   element: 1,
   text: 3,
   processingInstruction: 7,
   comment: 8,
   document: 9,
   documentType: 10,
-  fragment: 11
+  documentFragment: 11
 }
 ```
+
+See [Node.nodeType at MDN](https://developer.mozilla.org/en/docs/Web/API/Node/nodeType)
 
 ### Install
 
