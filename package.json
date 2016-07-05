@@ -1,0 +1,29 @@
+{
+  "name": "nodetype-enum",
+  "version": "1.0.0",
+  "description": "An enum of HTML DOM node types",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrkn/nodetype-enum.git"
+  },
+  "keywords": [
+    "node",
+    "dom",
+    "html",
+    "type",
+    "enum"
+  ],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrkn/nodetype-enum/issues"
+  },
+  "homepage": "https://github.com/nrkn/nodetype-enum#readme"
+}
